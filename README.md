@@ -42,7 +42,7 @@ As the product owner and lead developer, I spearheaded the R&D efforts and devel
 - **Neda Hajibabaei** - Front-end Developer  
   Email: [n.hajibabaei88@gmail.com](mailto:n.hajibabaei88@gmail.com)
 
-  ## Technologies Used ⚙️
+## Technologies Used:
 
 - **.NET** (Back-end development)
 - **ReactJS** (Front-end development)
