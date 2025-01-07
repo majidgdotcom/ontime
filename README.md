@@ -12,12 +12,16 @@ As the product owner and lead developer, I spearheaded the R&D efforts and devel
 - Manage client appointments.
 - Manage client payments.
 - Manage client images.
+
 **Customer Engagement:**
 - Customer Club for client engagement.
+
 **Appointment Management:**
 - Daily dashboard to manage appointments based on daily and monthly calendars.
+
 **Specialist Definitions:**
 - Define collection specialists
+
 **Reporting:**
 - Payment reports with filters for specialists and time periods.
 - Customer Club reports.
