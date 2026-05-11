@@ -50,8 +50,6 @@ The initial platform was built as a full-stack system:
 - Debtors reports
 - Introductory reports
 
-> **Note:** Currently, Ontime is available in Persian. English support is planned.
-
 ---
 
 ## Tech Stack
@@ -83,9 +81,3 @@ The initial platform was built as a full-stack system:
   [n.hajibabaei88@gmail.com](mailto:n.hajibabaei88@gmail.com)
 
 ---
-
-## Roadmap
-
-- English language support
-- Expanded reporting and business insights
-- Broader industry support beyond medical — salons, fitness, and general service businesses
